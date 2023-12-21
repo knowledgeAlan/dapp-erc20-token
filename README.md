@@ -7,7 +7,7 @@ ERC-20 is the technical standard for fungible tokens created using the Ethereum 
 ERC-20 allows developers to create smart-contract-enabled tokens that can be used with other products and services. These tokens are a representation of an asset, right, ownership, access, cryptocurrency, or anything else that is not unique in and of itself but can be transferred.
 
 
-# I think You can find a lot lessons online. I just want to explain confused places on transfer and transfer from 
+# I think you can find a lot lessons online. I just want to explain confused places on transfer and transfer from 
 method.
 
 
